@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://K2uci.github.io/CV_Pro",
+  "homepage": "https://K2uci.github.io/CV_Pro/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
